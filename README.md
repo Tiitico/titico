@@ -14,4 +14,4 @@
 </p>
 <img src="https://i.redd.it/baj8tiu8v4e81.jpg" 
   width:200px;
-  height:200px;>>
+  height:200px;>
